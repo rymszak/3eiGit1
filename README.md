@@ -7,7 +7,7 @@
 
 1. Utwórz repozytorium o nazwie ***Twojenazwisko3eiGit1***
 1. Dodaj jako wspólpracownika użytkownika **belfer2020**
-1. Utwórz w repozytorium plik *zsti.md*, a w nim napisz wykorzystując składnię [markdown](https://www.markdownguide.org/basic-syntax/):
+1. Utwórz fork z repo 3eiGit1 w repozytorium utwórz plik *zsti.md*, a w nim napisz wykorzystując składnię [markdown](https://www.markdownguide.org/basic-syntax/):
    - [x] dlaczego wybrałes szkołę ZSTI i kierunek technik informatyk
    - [x] co Ci się podoba w ZSTI
    - [x] co zmieniłbyś w ZSTI
